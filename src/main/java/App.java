@@ -18,6 +18,5 @@ public class App {
 
         System.out.println(bean == bean2);
         System.out.println(cat == cat2);
-
     }
 }
